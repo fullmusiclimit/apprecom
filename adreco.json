@@ -9,6 +9,14 @@
 "weight": 190
 },
 {
+"des": "This music player has unlimited pop songs, offline music. Download it now!",
+"ic": "https://image.winudf.com/v2/image1/Y29tLm11c2ljcGxheWVyLmVxdWlsaXplci5tcDNwbGF5ZXJfaWNvbl8xNjA4NjM2MzU1XzA2Ng/icon.png?w=340&fakeurl=1",
+"pke_name": "com.musicplayer.equilizer.mp3player",
+"title": "Free Music - Unlimited Listen Music (download free)",
+"interstitial": true,
+"weight": 190
+},
+{
 "des": "Free music download app, Mp3 music downloader free All song downloader",
 "ic": "https://image.winudf.com/v2/image1/Y29tLm11c2ljbXAzLm1wM2Rvd25sb2FkLm1wM3BsYXllcl9pY29uXzE2MDU5MjA5MTJfMDE5/icon.png?w=170&fakeurl=1",
 "pke_name": "com.musicmp3.mp3download.mp3player",
@@ -25,6 +33,14 @@
 "weight": 190
 },
 {
+"des": "Free music download app, Mp3 music downloader free All song downloader",
+"ic": "https://image.winudf.com/v2/image1/Y29tLmRvd25sb2FkbXVzaWMuemVyb2Rvd25sb2FkLm1wM2Rvd25sb2FkX2ljb25fMTYwNjM1OTMwM18wNDQ/icon.png?w=340&fakeurl=1",
+"pke_name": "com.downloadmusic.zerodownload.mp3download",
+"title": "Music Downloader - Free Mp3 Downloader",
+"interstitial": false,
+"weight": 190
+},
+{
 "des": "This music player has unlimited pop songs, offline music. Download it now!",
 "ic": "https://image.winudf.com/v2/image1/Y29tLm11c2ljcGxheWVyLm1wM3BsYXllci5tdXNpY2JveC5tdXNpY3RvX2ljb25fMTU4NDY4OTQwNl8wNDg/icon.png?w=170&fakeurl=1",
 "pke_name": "com.musicplayer.mp3player.musicbox.musicto",
@@ -38,6 +54,14 @@
 "pke_name": "com.phonebells.ringtone.ringtonemaker",
 "title": "Ringtone Maker - Music Cutter & Mp3 Editor",
 "interstitial": true,
+"weight": 190
+},
+{
+"des": "Free music download app, Mp3 music downloader free All song downloader",
+"ic": "https://image.winudf.com/v2/image1/Y29tLmZyZWVtdXNpYy5kb3dubG9hZG11c2ljLmx5cmljbXAzX2ljb25fMTYwODE2ODMwMV8wNTE/icon.png?w=340&fakeurl=1",
+"pke_name": "com.freemusic.downloadmusic.lyricmp3",
+"title": "Music Downloader - Free Mp3 Downloader",
+"interstitial": false,
 "weight": 190
 },
 {
