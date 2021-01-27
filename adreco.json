@@ -6,7 +6,15 @@
 "pke_name": "twittervideodownloader.savetwittergif.twittervideosaver.twitterdownload",
 "title": "Download Twitter Videos - GIF & Tweet Downloader",
 "interstitial": true,
-"wet": 190
+"weight": 190
+},
+{
+"des": "This music player has unlimited pop songs, offline music. Download it now!",
+"ic": "https://image.winudf.com/v2/image1/Y29tLm11c2ljcGxheWVyLmVxdWlsaXplci5tcDNwbGF5ZXJfaWNvbl8xNjA4NjM2MzU1XzA2Ng/icon.png?w=340&fakeurl=1",
+"pke_name": "com.musicplayer.equilizer.mp3player",
+"title": "Free Music - Unlimited Listen Music (download free)",
+"interstitial": true,
+"weight": 190
 },
 {
 "des": "Video Downloader for Facebook is the easiest Video Downloader app",
@@ -14,42 +22,65 @@
 "pke_name": "com.facebookvideodownloader.downloadvideo.facebookdownload",
 "title": "Video Downloader for Facebook - FB Video Download",
 "interstitial": true,
-"wet": 190
-},
-{
-"des": "helps you cut music, cut mp3 files and other formats. Download it now!",
-"ic": "https://image.winudf.com/v2/image1/Y29tLnBob25lYmVsbHMucmluZ3RvbmUucmluZ3RvbmVtYWtlcl9pY29uXzE1OTE0MDUzMDVfMDY0/icon.png?w=340&fakeurl=1",
-"pke_name": "com.phonebells.ringtone.ringtonemaker",
-"title": "Ringtone Maker - Music Cutter & Mp3 Editor",
-"wet": 190
+"weight": 190
 },
 {
 "des": "Free music download app, Mp3 music downloader free All song downloader",
 "ic": "https://image.winudf.com/v2/image1/Y29tLmRvd25sb2FkbXVzaWMuemVyb2Rvd25sb2FkLm1wM2Rvd25sb2FkX2ljb25fMTYwNjM1OTMwM18wNDQ/icon.png?w=340&fakeurl=1",
 "pke_name": "com.downloadmusic.zerodownload.mp3download",
 "title": "Music Downloader - Free Mp3 Downloader",
-"wet": 490
+"interstitial": false,
+"weight": 190
 },
 {
-"des": "Free flashlight as bright as a torch Brightest LED & Bright Screen",
-"ic": "https://image.winudf.com/v2/image1/Y29tLmZsYXNobGlnaHQuc3VwZXJsZWQuZnJlZWZsYXNobGlnaHRfaWNvbl8xNTgzOTExNDM0XzAxMA/icon.png?w=340&fakeurl=1",
-"pke_name": "com.flashlight.superled.freeflashlight",
-"title": "Free Flashlight - Brightest LED & Bright Screen",
-"wet": 140
+"des": "Free music download app, Mp3 music downloader free All song downloader",
+"ic": "https://image.winudf.com/v2/image1/Y29tLm11c2ljZG93bmxvYWQudG9kb3dubG9hZC5tdXNpY19pY29uXzE2MTEwOTM2NjhfMDEw/icon.png?w=340&fakeurl=1",
+"pke_name": "com.musicdownload.todownload.music",
+"title": "Music Downloader - Free Mp3 music download",
+"interstitial": true,
+"weight": 190
+},
+{
+"des": "Free music download app, Mp3 music downloader free All song downloader",
+"ic": "https://image.winudf.com/v2/image1/Y29tLmZyZWVtdXNpYy5kb3dubG9hZG11c2ljLmx5cmljbXAzX2ljb25fMTYwODE2ODMwMV8wNTE/icon.png?w=340&fakeurl=1",
+"pke_name": "com.freemusic.downloadmusic.lyricmp3",
+"title": "Music Downloader - Free Mp3 Downloader",
+"interstitial": false,
+"weight": 190
+},
+{
+"des": "This music player has unlimited pop songs, offline music. Download it now!",
+"ic": "https://image.winudf.com/p/aHR0cHM6Ly9wbGF5LWxoLmdvb2dsZXVzZXJjb250ZW50LmNvbS9UUjV5X2tHVnYzdXY0SlVnNk1GYmVqSEZxQ01Mb25HVHVtMWw5UGxjNTNNN1ZKWEFES2VQN3JrdUlSM29CU3JFdl84PXczNDA?k=f8b1e93a739090fb88ddc78ce839c7c9601de48c&.png",
+"pke_name": "com.musicplayer.audioplayer.greatmp3",
+"title": "Free Music - Unlimited Offline Music Download Free",
+"interstitial": false,
+"weight": 190
+},
+{
+"des": "Free music download app, Mp3 music downloader free All song downloader",
+"ic": "https://image.winudf.com/v2/image1/Y29tLm5ld211c2ljLmRvd25sb2FkbXVzaWMubXVzaWNtcDNfaWNvbl8xNTkzMjIwMzk5XzAxMA/icon.png?w=340&fakeurl=1",
+"pke_name": "com.newmusic.downloadmusic.musicmp3",
+"title": "Free Music - Download Mp3 Music & Music Downloader",
+"isgift": true,
+"cty": "br_id_us_mx_sa_th_py_bd_tn",
+"interstitial": false,
+"weight": 150
+},
+{
+"des": "Free music download app, Mp3 music downloader free All song downloader",
+"ic": "https://image.winudf.com/v2/image1/Y29tLnNwZWNtdXNpYy5tdXNpY2Rvd25sb2FkZXIuZG93bmxvYWRtdXNpYy5kb3dubG9hZGdvX2ljb25fMTU5Mjc4NzA5Ml8wMTQ/icon.png?w=340&fakeurl=1",
+"pke_name": "com.specmusic.musicdownloader.downloadmusic.downloadgo",
+"title": "Free Music - Download Mp3 Music & Music Downloader",
+"interstitial": false,
+"weight": 150
 },
 {
 "des": "YouTube Video Player is the best video app to play offline & online video",
 "ic": "https://image.winudf.com/v2/image1/Y29tLnBsYXllci5zdXBlcnZpZGVvLmhkdmlkZW9wbGF5ZXIudG9vbHNfaWNvbl8xNTc3NjEwOTMzXzA0MQ/icon.png?w=170&fakeurl=1",
 "pke_name": "com.player.supervideo.hdvideoplayer.tools",
 "title": "Download YouTube Video Player",
-"wet": 90
-},
-{
-"des": "This music player has unlimited pop songs, offline music. Download it now!",
-"ic": "https://image.winudf.com/v2/image1/Y29tLm11c2ljcGxheWVyLm1wM3BsYXllci5tdXNpY2JveC5tdXNpY3RvX2ljb25fMTU4NDY4OTQwNl8wNDg/icon.png?w=170&fakeurl=1",
-"pke_name": "com.musicplayer.mp3player.musicbox.musicto",
-"title": "Free Music Player - Mp3 Player, Themes, Equalizer",
-"wet": 190
+"interstitial": true,
+"weight": 90
 }
 ]
 }
