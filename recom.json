@@ -33,7 +33,7 @@
 "wet": 190
 },
 {
-"des": "This music player has unlimited pop songs, offline music. Download it now!",
+"des": "Free Music! Millions of free songs from SoundCloud!",
 "ic": "https://image.winudf.com/v2/image1/Y29tLm11c2ljcGxheWVyLmVxdWlsaXplci5tcDNwbGF5ZXJfaWNvbl8xNjA4NjM2MzU1XzA2Ng/icon.png?w=340&fakeurl=1",
 "pke_name": "com.musicplayer.equilizer.mp3player",
 "title": "Free Music - Unlimited Listen Music (download free)",
@@ -49,7 +49,7 @@
 "wet": 190
 },
 {
-"des": "Free music download app, Mp3 music downloader free All song downloader",
+"des": "Free Music Downloader: Download MP3 Songs,Search MP3 Music, Free Music Player",
 "ic": "https://image.winudf.com/v2/image1/Y29tLmRvd25sb2FkbXVzaWMuemVyb2Rvd25sb2FkLm1wM2Rvd25sb2FkX2ljb25fMTYxMDUxODMzMV8wNzM/icon.png?w=340&fakeurl=1",
 "pke_name": "com.downloadmusic.zerodownload.mp3download",
 "title": "Music Downloader - Free Mp3 Downloader",
@@ -57,10 +57,10 @@
 "wet": 190
 },
 {
-"des": "Free music download app, Mp3 music downloader free All song downloader",
+"des": "MP3 Music Downloader，search unlimited free music mp3, listen to and download to your phone",
 "ic": "https://image.winudf.com/v2/image1/Y29tLm11c2ljZG93bmxvYWQudG9kb3dubG9hZC5tdXNpY19pY29uXzE2MTEwOTM2NjhfMDEw/icon.png?w=340&fakeurl=1",
 "pke_name": "com.musicdownload.todownload.music",
-"title": "Music Downloader - Free Mp3 music download",
+"title": "Free Music - Download New Music & Music Downloader",
 "interstitial": true,
 "wet": 190
 },
@@ -68,7 +68,7 @@
 "des": "Free music download app, Mp3 music downloader free All song downloader",
 "ic": "https://image.winudf.com/v2/image1/Y29tLm11c2ljbXAzZG93bmxvYWQub25lbXVzaWMuZG93bmxvYWRnb19pY29uXzE2MTQzODY3NjBfMDE0/icon.png?w=340&fakeurl=1",
 "pke_name": "com.musicmp3download.onemusic.downloadgo",
-"title": "Music Downloader - Free Mp3 music download",
+"title": "Free Music Downloader – Mp3 Music Download",
 "interstitial": true,
 "cty": "eg_us_id_br_ph_my_mx",
 "wet": 190
@@ -92,18 +92,17 @@
 {
 "des": "Free music download app, Mp3 music downloader free All song downloader",
 "ic": "https://image.winudf.com/v2/image1/Y29tLm5ld211c2ljLmRvd25sb2FkbXVzaWMubXVzaWNtcDNfaWNvbl8xNTkzMjIwMzk5XzAxMA/icon.png?w=340&fakeurl=1",
-"pke_name": "com.newmusic.downloadmusic.musicmp3",
+"pke_name": "com.newmusic.mp3music.downloadmusic",
 "title": "Free Music - Download Mp3 Music & Music Downloader",
 "isgift": true,
-"cty": "br_id_us_mx_sa_th_py_bd_tn",
 "interstitial": false,
 "wet": 150
 },
 {
-"des": "Free music download app, Mp3 music downloader free All song downloader",
+"des": "Free Mp3 Music Downloader for you Search unlimited download new music",
 "ic": "https://image.winudf.com/v2/image1/Y29tLnNwZWNtdXNpYy5tdXNpY2Rvd25sb2FkZXIuZG93bmxvYWRtdXNpYy5kb3dubG9hZGdvX2ljb25fMTU5Mjc4NzA5Ml8wMTQ/icon.png?w=340&fakeurl=1",
 "pke_name": "com.specmusic.musicdownloader.downloadmusic.godownload",
-"title": "Free Music - Download Mp3 Music & Music Downloader",
+"title": "Mp3 Music Download & Free Music Downloader",
 "interstitial": false,
 "wet": 150
 },
