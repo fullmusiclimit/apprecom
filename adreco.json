@@ -17,6 +17,14 @@
 "wet": 190
 },
 {
+"des": "This app is fast and easily Video Downloader for Pinterest which allows you to Download Pinterest Videos.",
+"ic": "https://image.winudf.com/v2/image1/Y29tLmRvd25sb2FkcGludGVyZXN0LnZpZGVvZG93bmxvYWRlci5waW50ZXJlc3Rkb3dubG9hZGVyX2ljb25fMTYxNzE0OTk3NF8wMzM/icon.png?w=170&fakeurl=1",
+"pke_name": "com.downloadpinterest.videodownloader.pinterestdownloader",
+"title": "Video Downloader for Pinterest - GIF Downloader",
+"interstitial": true,
+"wet": 190
+},
+{
 "des": "Photo & Video Downloader for Instagram is the easiest Downloader app",
 "ic": "https://image.winudf.com/v2/image1/Y29tLmluc3RhZ3JhbWRvd25sb2FkLmluc2Rvd25sb2FkLnN0b3J5ZG93bmxvYWRfaWNvbl8xNjExNjI3NTE5XzA3NA/icon.png?w=340&fakeurl=1",
 "pke_name": "com.instagramdownload.insdownload.storydownload",
@@ -62,14 +70,6 @@
 "pke_name": "com.downloadmusic.zerodownload.mp3download",
 "title": "Music Downloader - Free Mp3 Downloader",
 "interstitial": false,
-"wet": 190
-},
-{
-"des": "MP3 Music Downloader，search unlimited free music mp3, listen to and download to your phone",
-"ic": "https://image.winudf.com/v2/image1/Y29tLm11c2ljZG93bmxvYWQudG9kb3dubG9hZC5tdXNpY19pY29uXzE2MTEwOTM2NjhfMDEw/icon.png?w=340&fakeurl=1",
-"pke_name": "com.musicdownload.todownload.music",
-"title": "Free Music - Download New Music & Music Downloader",
-"interstitial": true,
 "wet": 190
 },
 {
