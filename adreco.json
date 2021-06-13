@@ -6,7 +6,7 @@
 "pke_name": "com.tiktokdownloader.videodownloader.tiktokdownload",
 "title": "Video Downloader for TikTok - Free & No Watermark",
 "interstitial": true,
-"wet": 190
+"wet": 290
 },
 {
 "des": "Photo & Video Downloader for Twitter is the easiest Downloader app",
@@ -21,6 +21,14 @@
 "ic": "https://image.winudf.com/v2/image1/Y29tLm11c2ljZG93bmxvYWQubXVzaWMuZG93bmxvYWRtdXNpYy5kb3dubG9hZGdvX2ljb25fMTYxODg1MzI3MF8wNzc/icon.png?w=170&fakeurl=1",
 "pke_name": "com.musicdownload.music.downloadmusic.downloadgo",
 "title": "Music Downloader - Free Mp3 Downloader",
+"interstitial": true,
+"wet": 190
+},
+{
+"des": "Free Music Downloader: Download MP3 Songs,Search MP3 Music, Free Music Player",
+"ic": "https://image.winudf.com/v2/image1/Y29tLmRvd25sb2FkbXVzaWMuZG93bmxvYWRtcDMubW9yZW11c2ljX2ljb25fMTYyMzQ1Njg1NF8wNTM/icon.png?w=340&fakeurl=1",
+"pke_name": "com.downloadmusic.downloadmp3.moremusic",
+"title": "Download Music Mp3 - Music Downloader",
 "interstitial": true,
 "wet": 190
 },
@@ -91,18 +99,9 @@
 {
 "des": "Free music download app, Mp3 music downloader free All song downloader",
 "ic": "https://image.winudf.com/v2/image1/Y29tLm11c2ljbXAzZG93bmxvYWQub25lbXVzaWMuZG93bmxvYWRnb19pY29uXzE2MTQzODY3NjBfMDE0/icon.png?w=340&fakeurl=1",
-"pke_name": "com.musicmp3download.onemusic.downloadgo",
+"pke_name": "com.downloadmusicmp3.musicapp.downloadto",
 "title": "Free Music Downloader – Mp3 Music Download",
 "interstitial": true,
-"cty": "eg_us_id_br_ph_my_mx",
-"wet": 190
-},
-{
-"des": "Free music download app, Mp3 music downloader free All song downloader",
-"ic": "https://image.winudf.com/v2/image1/Y29tLmZyZWVtdXNpYy5kb3dubG9hZG11c2ljLmx5cmljbXAzX2ljb25fMTYxMDI1NzAwMF8wMDY/icon.png?w=340&fakeurl=1",
-"pke_name": "com.freemusic.downloadmusic.lyricmp3",
-"title": "Music Downloader - Free Mp3 Downloader",
-"interstitial": false,
 "wet": 190
 },
 {
